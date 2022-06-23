@@ -1,0 +1,27 @@
+
+$ling:linear-gradient(90deg, rgba(63, 81, 181, 1) 0%, rgba(100, 180, 246, 1) 100%);
+
+
+$table-group-separator-color: #d3cfd3;
+$table-th-font-weight: 2px;
+$table-cell-padding-x: 0px;
+$table-cell-padding-x-sm: 0px;
+
+
+
+$accordion-button-color: rgb(255, 255, 255);
+$accordion-button-active-color: rgb(255, 255, 255);
+$accordion-button-active-bg: null;
+$accordion-border-radius: 0px;
+$accordion-border-width: 0px;
+$accordion-inner-border-radius: 0px;
+$accordion-button-focus-border-color: null;
+$accordion-button-focus-box-shadow: null;
+
+$list-group-border-radius: 0px;
+
+$offcanvas-horizontal-width: 220px;
+
+$accordion-padding-y: 10px;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
