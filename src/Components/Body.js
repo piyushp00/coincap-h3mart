@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import eth from "../Assets/eth.png";
 import { useDispatch, useSelector } from "react-redux";
 import { getUser } from "../redux/ducks/user";
 
